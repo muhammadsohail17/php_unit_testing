@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalculatorTest::testadd":5,"CalculatorTest::testAdd":5},"times":{"CalculatorTest::testadd":0.013,"CalculatorTest::testAdd":0.004,"CalculatorTest::testSubtract":0}}
